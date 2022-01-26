@@ -7,12 +7,12 @@ cabal-version: 1.12
 name:           haskell-algos
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/haskell-algos#readme>
-homepage:       https://github.com/githubuser/haskell-algos#readme
-bug-reports:    https://github.com/githubuser/haskell-algos/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2022 Author name here
-license:        BSD3
+homepage:       https://github.com/fabiomolinar/haskell-algos#readme
+bug-reports:    https://github.com/fabiomolinar/haskell-algos/issues
+author:         Fabio Thomaz Molinar
+maintainer:     fabiomolinar@gmail.com
+copyright:      2022 (c) Fabio Thomaz Molinar
+license:        MIT
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
@@ -21,11 +21,11 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/haskell-algos
+  location: https://github.com/fabiomolinar/haskell-algos
 
 library
   exposed-modules:
-      Lib
+      MergeAndSort
   other-modules:
       Paths_haskell_algos
   hs-source-dirs:

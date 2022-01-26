@@ -1,10 +1,10 @@
 name:                haskell-algos
 version:             0.1.0.0
-github:              "githubuser/haskell-algos"
-license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2022 Author name here"
+github:              "fabiomolinar/haskell-algos"
+license:             MIT
+author:              "Fabio Thomaz Molinar"
+maintainer:          "fabiomolinar@gmail.com"
+copyright:           "2022 (c) Fabio Thomaz Molinar"
 
 extra-source-files:
 - README.md
