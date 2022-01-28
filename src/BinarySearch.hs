@@ -1,7 +1,7 @@
 {-|
 Module      :   BinarySearch
 Description :   Binary search algorithm.
-Copyright   :   (c) Fabio Thomaz MOlinar, 2021
+Copyright   :   (c) Fabio Thomaz Molinar, 2021
 Maintainer  :   fabiomolinar@gmail.com
 Stability   :   experimental
 
